@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="fl-legend-discrete-color-0-svg-screenshot-container" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 796 576">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20.8px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-3, .cls-6, .cls-8 {
+        fill: #333;
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-10 {
+        stroke: #aaa;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-7, .cls-19 {
+        fill: none;
+      }
+
+      .cls-20 {
+        fill: #9654e5;
+      }
+
+      .cls-20, .cls-21, .cls-11, .cls-15, .cls-16, .cls-22, .cls-19 {
+        stroke-width: 0px;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        font-size: 13px;
+      }
+
+      .cls-21 {
+        fill: #eee;
+        fill-opacity: 0;
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-4 {
+        fill: #000;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-4, .cls-7 {
+        font-size: 11.7px;
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-25 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-5 {
+        fill: #4a4a4a;
+      }
+
+      .cls-12 {
+        display: none;
+        stroke: red;
+      }
+
+      .cls-13, .cls-17 {
+        stroke: #eee;
+        stroke-width: 1.6px;
+      }
+
+      .cls-14 {
+        stroke: #9654e5;
+      }
+
+      .cls-14, .cls-18 {
+        stroke-width: 2.8px;
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-26 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-17 {
+        stroke-linecap: square;
+      }
+
+      .cls-27 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-18 {
+        stroke: #4328e7;
+      }
+
+      .cls-22 {
+        fill: #4328e7;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+        stroke-width: 3.8px;
+      }
+
+      .cls-28 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-8 {
+        font-size: 14px;
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-9);
+      }
+    </style>
+    <clipPath id="clippath-1">
+      <rect class="cls-11" x="45.3" y="167.3" width="586.4" height="326.8"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <polygon class="cls-11" points="46.8 166.2 630.2 166.2 630.2 495.2 0 515.2 46.8 166.2"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <polygon class="cls-11" points="19.2 170.3 630.2 166.2 630.2 495.2 17.7 492.6 19.2 170.3"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <polygon class="cls-11" points="47.7 162.3 48.7 162.3 47.7 163.3 47.7 162.3"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <polygon class="cls-16" points="45.9 160.5 45 160.5 45.9 159.6 45.9 160.5"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <polygon class="cls-11" points="47.7 162.3 48.7 162.3 47.7 163.3 47.7 162.3"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <polygon class="cls-15" points="45.9 160.5 45 160.5 45.9 159.6 45.9 160.5"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <polygon class="cls-11" points="47.7 162.3 48.7 162.3 47.7 163.3 47.7 162.3"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <polygon class="cls-19" points="45.9 160.5 45 160.5 45.9 159.6 45.9 160.5"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <polygon class="cls-11" points="47.7 162.3 48.7 162.3 47.7 163.3 47.7 162.3"/>
+    </clipPath>
+  </defs>
+  <g>
+    <rect class="cls-11" x="46.8" y="161.4" width="697" height="331.2"/>
+    <rect class="cls-11" x="46.8" y="161.4" width="697" height="331.2"/>
+    <polygon class="cls-21" points="46.8 161.4 46.8 161.4 46.8 161.4 46.8 161.4"/>
+    <g>
+      <rect class="cls-12" x="46.8" y="161.4" width="697" height="331.2"/>
+      <rect class="cls-11" x="46.8" y="168.8" width="583.4" height="323.8"/>
+      <g class="cls-24">
+        <g>
+          <line class="cls-13" x1="46.8" y1="492.6" x2="630.2" y2="492.6"/>
+          <line class="cls-13" x1="46.8" y1="412.5" x2="630.2" y2="412.5"/>
+          <line class="cls-13" x1="46.8" y1="332.3" x2="630.2" y2="332.3"/>
+          <line class="cls-13" x1="46.8" y1="252.2" x2="630.2" y2="252.2"/>
+          <line class="cls-13" x1="46.8" y1="172" x2="630.2" y2="172"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <line class="cls-17" x1="46.8" y1="492.6" x2="630.2" y2="492.6"/>
+          <g>
+            <g>
+              <line class="cls-13" x1="626.9" y1="492.6" x2="626.9" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(611 524.6)"><tspan x="0" y="0">2023</tspan></text>
+              </g>
+            </g>
+            <g>
+              <line class="cls-13" x1="569" y1="492.6" x2="569" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(553 524.6)"><tspan x="0" y="0">2022</tspan></text>
+              </g>
+            </g>
+            <g>
+              <line class="cls-13" x1="511" y1="492.6" x2="511" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(495 524.6)"><tspan x="0" y="0">2021</tspan></text>
+              </g>
+            </g>
+            <g>
+              <line class="cls-13" x1="452.8" y1="492.6" x2="452.8" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(436.8 524.6)"><tspan x="0" y="0">2020</tspan></text>
+              </g>
+            </g>
+            <g>
+              <line class="cls-13" x1="394.9" y1="492.6" x2="394.9" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(378.9 524.6)"><tspan x="0" y="0">2019</tspan></text>
+              </g>
+            </g>
+            <g>
+              <line class="cls-13" x1="336.9" y1="492.6" x2="336.9" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(320.9 524.6)"><tspan x="0" y="0">2018</tspan></text>
+              </g>
+            </g>
+            <g>
+              <line class="cls-13" x1="278.9" y1="492.6" x2="278.9" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(262.9 524.6)"><tspan x="0" y="0">2017</tspan></text>
+              </g>
+            </g>
+            <g>
+              <line class="cls-13" x1="220.8" y1="492.6" x2="220.8" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(204.8 524.6)"><tspan x="0" y="0">2016</tspan></text>
+              </g>
+            </g>
+            <g>
+              <line class="cls-13" x1="162.8" y1="492.6" x2="162.8" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(146.8 524.6)"><tspan x="0" y="0">2015</tspan></text>
+              </g>
+            </g>
+            <g>
+              <line class="cls-13" x1="104.8" y1="492.6" x2="104.8" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(88.8 524.6)"><tspan x="0" y="0">2014</tspan></text>
+              </g>
+            </g>
+            <g>
+              <line class="cls-13" x1="46.8" y1="492.6" x2="46.8" y2="509.1"/>
+              <g class="cls-2">
+                <text class="cls-5" transform="translate(30.8 524.6)"><tspan x="0" y="0">2013</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <g>
+            <path class="cls-17" d="M46.8,168.8"/>
+            <path class="cls-17" d="M46.8,492.6"/>
+          </g>
+          <g>
+            <line class="cls-13" x1="46.8" y1="492.6" x2="40.3" y2="492.6"/>
+            <line class="cls-13" x1="46.8" y1="172" x2="40.3" y2="172"/>
+            <line class="cls-13" x1="46.8" y1="332.3" x2="40.3" y2="332.3"/>
+            <line class="cls-13" x1="46.8" y1="412.5" x2="40.3" y2="412.5"/>
+            <line class="cls-13" x1="46.8" y1="252.2" x2="40.3" y2="252.2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="lines">
+    <g class="cls-26">
+      <path class="cls-18" d="M46.8,446.4c19.3-15,38.7-30.1,58-43.1,19.3-13,38.7-25.9,58-35.1,19.3-9.2,38.7-11.5,58-20.2,19.4-8.7,38.8-23.1,58.1-32.1,19.3-8.9,38.7-14.2,58-21.5,19.3-7.3,38.7-13.6,58-22.4,19.3-8.9,38.7-30.8,58-30.8s38.8,41.8,58.1,41.8,38.7-88,58-90.9c19.3-2.9,38.7-3.6,58-4.3" pointer-events="none"/>
+    </g>
+    <g class="cls-25">
+      <path class="cls-14" d="M46.8,423c19.3-.6,38.7-1.1,58-2.2,19.3-1.1,38.7-3.1,58-4.5,19.3-1.4,38.7-2.8,58-3.8,19.4-1,38.8-1.2,58.1-2.4,19.3-1.2,38.7-3.1,58-4.8,19.3-1.7,38.7-3.9,58-5.5,19.3-1.5,38.7-2.7,58-3.7,19.4-1,38.8-1.6,58.1-2.4,19.3-.8,38.7-2,58-2.4,19.3-.4,38.7-.5,58-.6" pointer-events="none"/>
+    </g>
+    <g>
+      <path class="cls-10" d="M635.3,187.9h0"/>
+      <path class="cls-10" d="M632.1,187.9"/>
+    </g>
+  </g>
+  <g id="data-points">
+    <g class="cls-23">
+      <g>
+        <path id="point-0-0" class="cls-22" d="M43.6,446.4c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-0-1" class="cls-22" d="M101.6,403.3c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-0-2" class="cls-22" d="M159.5,368.2c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-0-3" class="cls-22" d="M217.5,348c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3h0c0,1.8-1.5,3.3-3.3,3.3s-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-0-4" class="cls-22" d="M275.7,316c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-0-5" class="cls-22" d="M333.6,294.5c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-0-6" class="cls-22" d="M391.6,272c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3h0c0,1.8-1.5,3.3-3.3,3.3s-3.3-1.5-3.3-3.3h0Z"/>
+        <path id="point-0-7" class="cls-22" d="M449.6,241.3c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3h0Z"/>
+        <path id="point-0-8" class="cls-22" d="M507.7,283.1c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-0-9" class="cls-22" d="M565.7,192.2c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-0-10" class="cls-22" d="M623.7,187.9c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3h0c0,1.8-1.5,3.3-3.3,3.3s-3.3-1.5-3.3-3.3Z"/>
+      </g>
+    </g>
+    <g class="cls-27">
+      <g>
+        <path id="point-1-0" class="cls-20" d="M43.6,423c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-1-1" class="cls-20" d="M101.6,420.8c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-1-2" class="cls-20" d="M159.5,416.3c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-1-3" class="cls-20" d="M217.5,412.5c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-1-4" class="cls-20" d="M275.7,410.1c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-1-5" class="cls-20" d="M333.6,405.2c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-1-6" class="cls-20" d="M391.6,399.8c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-1-7" class="cls-20" d="M449.6,396.1c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-1-8" class="cls-20" d="M507.7,393.7c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3-1.5,3.3-3.3,3.3-3.3-1.5-3.3-3.3Z"/>
+        <path id="point-1-9" class="cls-20" d="M565.7,391.3c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3h0c0,1.8-1.5,3.3-3.3,3.3s-3.3-1.5-3.3-3.3h0Z"/>
+        <path id="point-1-10" class="cls-20" d="M623.7,390.7c0-1.8,1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3h0c0,1.8-1.5,3.3-3.3,3.3s-3.3-1.5-3.3-3.3h0Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="data-point-labels">
+    <g class="cls-28">
+      <g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(46.8 461.3)"><tspan x="0" y="0">2.9</tspan></text>
+            <text class="cls-7" transform="translate(46.8 461.3)"><tspan x="0" y="0">2.9</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(46.8 461.3)"><tspan x="0" y="0">2.9</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(96.7 418.2)"><tspan x="0" y="0">5.6</tspan></text>
+            <text class="cls-7" transform="translate(96.7 418.2)"><tspan x="0" y="0">5.6</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(96.7 418.2)"><tspan x="0" y="0">5.6</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(154.6 383)"><tspan x="0" y="0">7.8</tspan></text>
+            <text class="cls-7" transform="translate(154.6 383)"><tspan x="0" y="0">7.8</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(154.6 383)"><tspan x="0" y="0">7.8</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(217.5 362.9)"><tspan x="0" y="0">9</tspan></text>
+            <text class="cls-7" transform="translate(217.5 362.9)"><tspan x="0" y="0">9</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(217.5 362.9)"><tspan x="0" y="0">9</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(272.8 330.8)"><tspan x="0" y="0">11</tspan></text>
+            <text class="cls-7" transform="translate(272.8 330.8)"><tspan x="0" y="0">11</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(272.8 330.8)"><tspan x="0" y="0">11</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(325.5 309.3)"><tspan x="0" y="0">12.4</tspan></text>
+            <text class="cls-7" transform="translate(325.5 309.3)"><tspan x="0" y="0">12.4</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(325.5 309.3)"><tspan x="0" y="0">12.4</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(383.5 286.9)"><tspan x="0" y="0">13.8</tspan></text>
+            <text class="cls-7" transform="translate(383.5 286.9)"><tspan x="0" y="0">13.8</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(383.5 286.9)"><tspan x="0" y="0">13.8</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(441.5 256.1)"><tspan x="0" y="0">15.7</tspan></text>
+            <text class="cls-7" transform="translate(441.5 256.1)"><tspan x="0" y="0">15.7</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(441.5 256.1)"><tspan x="0" y="0">15.7</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(499.6 297.9)"><tspan x="0" y="0">13.1</tspan></text>
+            <text class="cls-7" transform="translate(499.6 297.9)"><tspan x="0" y="0">13.1</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(499.6 297.9)"><tspan x="0" y="0">13.1</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(557.6 207)"><tspan x="0" y="0">18.7</tspan></text>
+            <text class="cls-7" transform="translate(557.6 207)"><tspan x="0" y="0">18.7</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(557.6 207)"><tspan x="0" y="0">18.7</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(613.7 202.7)"><tspan x="0" y="0">19</tspan></text>
+            <text class="cls-7" transform="translate(613.7 202.7)"><tspan x="0" y="0">19</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(613.7 202.7)"><tspan x="0" y="0">19</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="cls-9">
+      <g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(46.8 437.9)"><tspan x="0" y="0">4.3</tspan></text>
+            <text class="cls-7" transform="translate(46.8 437.9)"><tspan x="0" y="0">4.3</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(46.8 437.9)"><tspan x="0" y="0">4.3</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(96.7 435.6)"><tspan x="0" y="0">4.5</tspan></text>
+            <text class="cls-7" transform="translate(96.7 435.6)"><tspan x="0" y="0">4.5</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(96.7 435.6)"><tspan x="0" y="0">4.5</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(154.6 431.1)"><tspan x="0" y="0">4.8</tspan></text>
+            <text class="cls-7" transform="translate(154.6 431.1)"><tspan x="0" y="0">4.8</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(154.6 431.1)"><tspan x="0" y="0">4.8</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(217.5 427.3)"><tspan x="0" y="0">5</tspan></text>
+            <text class="cls-7" transform="translate(217.5 427.3)"><tspan x="0" y="0">5</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(217.5 427.3)"><tspan x="0" y="0">5</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(270.8 424.9)"><tspan x="0" y="0">5.2</tspan></text>
+            <text class="cls-7" transform="translate(270.8 424.9)"><tspan x="0" y="0">5.2</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(270.8 424.9)"><tspan x="0" y="0">5.2</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(328.8 420.1)"><tspan x="0" y="0">5.5</tspan></text>
+            <text class="cls-7" transform="translate(328.8 420.1)"><tspan x="0" y="0">5.5</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(328.8 420.1)"><tspan x="0" y="0">5.5</tspan></text>
+          </g>
+        </g>
+        <g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(386.7 414.6)"><tspan x="0" y="0">5.8</tspan></text>
+            <text class="cls-7" transform="translate(386.7 414.6)"><tspan x="0" y="0">5.8</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(386.7 414.6)"><tspan x="0" y="0">5.8</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(449.6 410.9)"><tspan x="0" y="0">6</tspan></text>
+            <text class="cls-7" transform="translate(449.6 410.9)"><tspan x="0" y="0">6</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(449.6 410.9)"><tspan x="0" y="0">6</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(502.9 408.5)"><tspan x="0" y="0">6.2</tspan></text>
+            <text class="cls-7" transform="translate(502.9 408.5)"><tspan x="0" y="0">6.2</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(502.9 408.5)"><tspan x="0" y="0">6.2</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(560.8 406.1)"><tspan x="0" y="0">6.3</tspan></text>
+            <text class="cls-7" transform="translate(560.8 406.1)"><tspan x="0" y="0">6.3</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(560.8 406.1)"><tspan x="0" y="0">6.3</tspan></text>
+          </g>
+        </g>
+        <g pointer-events="none">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(610.7 405.5)"><tspan x="0" y="0">6.4</tspan></text>
+            <text class="cls-7" transform="translate(610.7 405.5)"><tspan x="0" y="0">6.4</tspan></text>
+          </g>
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(610.7 405.5)"><tspan x="0" y="0">6.4</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-2">
+    <text class="cls-1" transform="translate(25.1 98.3)"><tspan x="0" y="0">Female College Athletes Grow in College Sports, but Less So for Latinas</tspan></text>
+  </g>
+  <g class="cls-2">
+    <text class="cls-8" transform="translate(27.9 556.3)"><tspan x="0" y="0">Source: NCAA Demographics Database</tspan></text>
+  </g>
+  <g class="cls-2">
+    <text class="cls-3" transform="translate(24.1 132.1)"><tspan x="0" y="0">Numbers in percentages %:</tspan></text>
+  </g>
+  <circle class="cls-22" cx="210" cy="127.5" r="4.9"/>
+  <circle class="cls-20" cx="442.6" cy="127.5" r="4.9"/>
+  <g class="cls-2">
+    <text class="cls-6" transform="translate(220.8 132.1)"><tspan x="0" y="0">Growth of Women (overall) in Sports</tspan></text>
+  </g>
+  <g class="cls-2">
+    <text class="cls-6" transform="translate(452.1 132.1)"><tspan x="0" y="0">Percent of Latinas in Sport of all women</tspan></text>
+  </g>
+  <circle class="cls-22" cx="104.8" cy="403.5" r="4.9"/>
+  <circle class="cls-22" cx="162.8" cy="368.5" r="4.9"/>
+  <circle class="cls-22" cx="215.9" cy="349.6" r="4.9"/>
+  <circle class="cls-22" cx="278.9" cy="314.2" r="4.9"/>
+  <circle class="cls-22" cx="336.9" cy="293.8" r="4.9"/>
+  <circle class="cls-22" cx="394.9" cy="271.3" r="4.9"/>
+  <circle class="cls-22" cx="452.8" cy="241.1" r="4.9"/>
+  <circle class="cls-22" cx="511.8" cy="283.4" r="4.9"/>
+  <circle class="cls-22" cx="569" cy="192" r="4.9"/>
+  <circle class="cls-22" cx="628.7" cy="187.2" r="4.9"/>
+  <circle class="cls-20" cx="104.8" cy="421.1" r="4.9"/>
+  <circle class="cls-20" cx="162.8" cy="416.5" r="4.9"/>
+  <circle class="cls-20" cx="220.8" cy="412.8" r="4.9"/>
+  <circle class="cls-20" cx="278.9" cy="409.6" r="4.9"/>
+  <circle class="cls-20" cx="336.9" cy="404.3" r="4.9"/>
+  <circle class="cls-20" cx="394.9" cy="399.4" r="4.9"/>
+  <circle class="cls-20" cx="452.8" cy="395.5" r="4.9"/>
+  <circle class="cls-20" cx="511" cy="393.3" r="4.9"/>
+  <circle class="cls-20" cx="569" cy="390.5" r="4.9"/>
+  <circle class="cls-20" cx="626.4" cy="390.5" r="4.9"/>
+  <circle class="cls-22" cx="46.8" cy="447.1" r="4.9"/>
+  <circle class="cls-20" cx="46.8" cy="423.7" r="4.9"/>
+</svg>
